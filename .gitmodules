@@ -1,0 +1,3 @@
+[submodule "ConfigServer"]
+	path = ConfigServer
+	url = https://github.com/TigranAI/ConfigServer

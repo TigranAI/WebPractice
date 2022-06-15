@@ -1,0 +1,1 @@
+start cmd.exe /c "title AuthorizationService & java -jar AuthorizationService.jar"

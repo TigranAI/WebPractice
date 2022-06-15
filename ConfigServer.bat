@@ -1,0 +1,1 @@
+start cmd.exe /c "title ConfigServer & java -jar ConfigServer.jar"

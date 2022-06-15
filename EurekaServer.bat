@@ -1,0 +1,1 @@
+start cmd.exe /c "title EurekaServer & java -jar EurekaServer.jar"

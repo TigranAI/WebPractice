@@ -1,0 +1,1 @@
+start cmd.exe /c "title GatewayProxy & java -jar GatewayProxy.jar"

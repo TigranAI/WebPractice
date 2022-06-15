@@ -1,0 +1,1 @@
+start cmd.exe /c "title WebEditor & java -jar WebEditor.jar"
