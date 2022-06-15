@@ -4,3 +4,18 @@
 [submodule "EurekaServer"]
 	path = EurekaServer
 	url = https://github.com/TigranAI/EurekaServer
+[submodule "PlagiarismServer"]
+	path = PlagiarismServer
+	url = https://github.com/TigranAI/PlagiarismServer
+[submodule "WebEditorServer"]
+	path = WebEditorServer
+	url = https://github.com/TigranAI/WebEditorServer
+[submodule "GatewayServer"]
+	path = GatewayServer
+	url = https://github.com/TigranAI/GatewayServer
+[submodule "AuthorizationServer"]
+	path = AuthorizationServer
+	url = https://github.com/TigranAI/AuthorizationServer
+[submodule "ResourceServer"]
+	path = ResourceServer
+	url = https://github.com/TigranAI/ResourceServer
