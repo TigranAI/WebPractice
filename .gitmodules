@@ -1,3 +1,6 @@
 [submodule "ConfigServer"]
 	path = ConfigServer
 	url = https://github.com/TigranAI/ConfigServer
+[submodule "EurekaServer"]
+	path = EurekaServer
+	url = https://github.com/TigranAI/EurekaServer
